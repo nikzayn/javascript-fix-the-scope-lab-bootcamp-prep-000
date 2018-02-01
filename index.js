@@ -24,7 +24,5 @@ var funkyFunction = function() {
   }
 }
 
-myAnimal();
-animal
-
-
+var theFunk = funkyFunction();
+theFunk();
